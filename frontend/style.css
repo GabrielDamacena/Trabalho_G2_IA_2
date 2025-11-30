@@ -1,65 +1,114 @@
 
 body {
-    margin: 0;
-    font-family: Arial, sans-serif;
-    background: #f9f9f9;
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background: #f9f9f9;
+  display: flex;
+  flex-direction: column;
+  height: 100vh; /* Ocupa toda a altura da tela */
 }
 
 header {
-    background: #0d2b4d;
-    color: white;
-    text-align: center;
-    padding: 15px;
+  background: #0d2b4d;
+  color: white;
+  text-align: center;
+  padding: 15px;
+  flex-shrink: 0; /* Não encolhe */
 }
 
 #chat-container {
-    padding: 20px;
-    height: 70vh;
-    overflow-y: auto;
-    display: flex;
-    flex-direction: column;
-    gap: 10px;
+  flex: 1; /* Ocupa todo espaço disponível */
+  padding: 20px;
+  overflow-y: auto;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
 }
 
 .message {
-    max-width: 70%;
-    padding: 10px;
-    border-radius: 8px;
-    font-size: 14px;
+  max-width: 70%;
+  padding: 10px;
+  border-radius: 8px;
+  font-size: 14px;
 }
 
 .message.bot {
-    background: #e6e6e6;
-    align-self: flex-start;
+  background: #e6e6e6;
+  align-self: flex-start;
 }
 
 .message.user {
-    background: #007bff;
-    color: white;
-    align-self: flex-end;
+  background: #007bff;
+  color: white;
+  align-self: flex-end;
 }
 
 footer {
-    display: flex;
-    padding: 10px;
-    background: white;
-    border-top: 1px solid #ccc;
+  display: flex;
+  padding: 10px;
+  background: white;
+  border-top: 1px solid #ccc;
+  position: sticky; /* Mantém visível */
+  bottom: 0;
+  flex-shrink: 0;
 }
 
 footer input {
-    flex: 1;
-    padding: 10px;
-    font-size: 14px;
-    border: 1px solid #ccc;
-    border-radius: 4px;
+  flex: 1;
+  padding: 10px;
+  font-size: 14px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
 }
 
 footer button {
-    margin-left: 10px;
-    padding: 10px 15px;
-    background: #007bff;
-    color: white;
-    border: none;
-    border-radius: 4px;
-    cursor: pointer;
+  margin-left: 10px;
+  padding: 10px 15px;
+  background: #007bff;
+  color: white;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+/* Responsividade */
+@media (max-width: 600px) {
+  .message {
+    max-width: 90%;
+    font-size: 12px;
+  }
+
+  footer input {
+    font-size: 12px;
+  }
+
+  footer button {
+    padding: 8px 12px;
+    font-size: 12px;
+  }
+}
+
+
+/* Spinner animado */
+.spinner {
+  display: inline-block;
+  width: 16px;
+  height: 16px;
+  border: 2px solid #ccc;
+  border-top: 2px solid #007bff;
+  border-radius: 50%;
+  animation: spin 0.8s linear infinite;
+  margin-right: 8px;
+  vertical-align: middle;
+}
+
+@keyframes spin {
+  0% { transform: rotate(0deg); }
+  100% { transform: rotate(360deg); }
+}
+
+/* Estilo opcional para mensagem de carregamento */
+.message.bot.loading {
+  font-style: italic;
+  color: #555;
 }

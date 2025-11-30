@@ -16,25 +16,38 @@ function addMessage(text, sender) {
     chatContainer.scrollTop = chatContainer.scrollHeight;
 }
 
+
 async function sendMessage() {
-    const pergunta = userInput.value.trim();
-    if (!pergunta) return;
+  const pergunta = userInput.value.trim();
+  if (!pergunta) return;
 
-    addMessage(pergunta, "user");
-    userInput.value = "";
+  // Adiciona mensagem do usuário
+  addMessage(pergunta, "user");
+  userInput.value = "";
 
-    try {
-        const response = await fetch("http://127.0.0.1:8000/responder", {
-            method: "POST",
-            headers: { "Content-Type": "application/json" },
-            body: JSON.stringify({ pergunta })
-        });
+  // Cria indicador de carregamento com spinner
+  const loadingDiv = document.createElement("div");
+  loadingDiv.classList.add("message", "bot", "loading");
+  loadingDiv.innerHTML = `<span class="spinner"></span> Pensando...`;
+  chatContainer.appendChild(loadingDiv);
+  chatContainer.scrollTop = chatContainer.scrollHeight;
 
-        if (!response.ok) throw new Error("Erro na requisição");
+  try {
+    const response = await fetch("http://127.0.0.1:8000/responder", {
+      method: "POST",
+      headers: { "Content-Type": "application/json" },
+      body: JSON.stringify({ pergunta })
+    });
 
-        const data = await response.json();
-        addMessage(data.resposta, "bot");
-    } catch (error) {
-        addMessage("Desculpe, não consegui processar sua pergunta. Verifique se o servidor está rodando.", "bot");
-    }
+    if (!response.ok) throw new Error("Erro na requisição");
+    const data = await response.json();
+
+    // Substitui conteúdo pelo texto da resposta
+    loadingDiv.classList.remove("loading");
+    loadingDiv.innerHTML = data.resposta;
+
+  } catch (error) {
+    loadingDiv.classList.remove("loading");
+    loadingDiv.innerHTML = "Desculpe, não consegui processar sua pergunta. Verifique se o servidor está rodando.";
+  }
 }
