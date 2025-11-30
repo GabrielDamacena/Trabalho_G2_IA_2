@@ -1,0 +1,36 @@
+[Categoria: Quadríceps]
+[Fonte: Ebben et al., 2009]
+[Tipo: Estudo científico]
+
+### Chunk 1: Definição do Quadríceps
+O quadríceps é um grupo muscular formado pelos vastos medial, lateral e intermédio, além do reto femoral. É responsável pela extensão do joelho e desempenha papel fundamental em movimentos como agachamento e corrida.
+
+---
+
+### Chunk 2: Ativação do Reto Femoral
+Segundo Ebben et al. (2009), os exercícios com maior ativação do reto femoral (%MVIC) foram:
+- **Cadeira extensora**: 86,9%
+- **Agachamento**: 76,5%
+- **Afundo**: ~75%
+- **Step up (subida no banco)**: pouco mais de 60%
+
+*MIVC: Contração muscular isométrica voluntária.*
+
+---
+
+### Chunk 3: Ativação do Vasto Lateral
+Para o vasto lateral, os resultados foram:
+- **Afundo**: 94,3%
+- **Agachamento**: 91,2%
+- **Step up**: ~80%
+- **Cadeira extensora**: ~75%
+
+---
+
+### Chunk 4: Conclusão do Estudo
+O estudo demonstra que diferentes exercícios são importantes para um trabalho completo do quadríceps. A cadeira extensora é mais eficaz para o reto femoral, enquanto o afundo e o agachamento são superiores para o vasto lateral.
+
+---
+
+[Recomendação prática]
+Para hipertrofia do quadríceps, combine exercícios multiarticulares (agachamento, afundo) com isoladores (cadeira extensora), ajustando carga e volume conforme objetivo.

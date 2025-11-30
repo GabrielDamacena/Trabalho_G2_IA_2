@@ -1,0 +1,36 @@
+[Categoria: Peitoral]
+[Fonte: Whitnee Schanke et al., 2012]
+[Tipo: Estudo científico]
+
+### Chunk 1: Definição do Peitoral
+O peitoral é um dos músculos mais buscados pelos praticantes de musculação para hipertrofia. Ele é responsável por movimentos de adução e flexão do ombro, sendo essencial em exercícios de empurrar.
+
+---
+
+### Chunk 2: Exercícios Avaliados
+Segundo Whitnee Schanke e colaboradores (2012), foram analisados diversos exercícios para o peitoral utilizando eletromiografia (IEMG). Os exercícios estudados foram:
+- Supino com barra
+- Peck Deck
+- Cruzamento de cabos
+- Supino sentado
+- Crucifixo inclinado
+
+---
+
+### Chunk 3: Resultados de Ativação Muscular (IEMG %)
+Os níveis de ativação muscular foram:
+- **Supino com barra**: 100%
+- **Peck Deck**: 98%
+- **Cruzamento de cabos**: 93%
+- **Supino sentado**: 79%
+- **Crucifixo inclinado**: 69%
+
+---
+
+### Chunk 4: Conclusão do Estudo
+O estudo indica que o supino com barra é o exercício mais eficaz para ativação do peitoral, seguido pelo Peck Deck e pelo cruzamento de cabos. Exercícios isoladores, como crucifixo inclinado, apresentam menor ativação, mas podem complementar o treino.
+
+---
+
+[Recomendação prática]
+Para hipertrofia do peitoral, priorize exercícios multiarticulares como supino com barra e variações, complementando com isoladores (Peck Deck, crucifixo) para maior estímulo muscular.

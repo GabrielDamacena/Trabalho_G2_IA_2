@@ -1,0 +1,43 @@
+[Categoria: Deltoides]
+[Fonte: Botton et al., 2013]
+[Tipo: Estudo científico]
+
+### Chunk 1: Importância do Treino de Deltoides
+Os deltoides, quando bem desenvolvidos, contribuem para uma aparência equilibrada, prevenção de lesões nos ombros e melhor desempenho em exercícios como o supino. Por isso, treinar deltoides é extremamente relevante na musculação.
+
+---
+
+### Chunk 2: Exercícios Avaliados
+Segundo Botton et al. (2013), foram analisados diversos exercícios para mensurar a ativação dos deltoides por meio da eletromiografia. Os exercícios estudados foram:
+- Supino reto
+- Desenvolvimento no Smith
+- Peck Deck (voador peitoral)
+- Elevação lateral com halteres
+- Elevação lateral no crossover
+- Voador inverso
+- Puxador frente
+- Remada sentada
+
+---
+
+### Chunk 3: Resultados de Ativação Muscular (%MVIC)
+Os principais achados do estudo foram:
+- **Desenvolvimento no Smith** → Deltoide anterior: ~70%
+- **Elevação lateral com halteres** → Deltoide médio: ~55%
+- **Voador inverso (máquina)** → Deltoide posterior: ~90%
+
+*MIVC: Contração muscular isométrica voluntária.*
+
+---
+
+### Chunk 4: Conclusão do Estudo
+O estudo concluiu que:
+- O desenvolvimento no Smith apresenta maior ativação no deltoide anterior.
+- A elevação lateral com halteres é mais eficaz para o deltoide médio.
+- O voador inverso é o melhor para o deltoide posterior.
+Para um trabalho completo, é necessário variar os exercícios e selecionar corretamente os movimentos para cada porção do deltoide.
+
+---
+
+[Recomendação prática]
+Para hipertrofia dos deltoides, combine exercícios multiarticulares (como desenvolvimento no Smith) com isoladores (elevação lateral e voador inverso), garantindo estímulos variados para todas as porções do músculo.

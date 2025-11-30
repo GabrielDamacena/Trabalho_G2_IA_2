@@ -1,0 +1,40 @@
+[Categoria: Posterior da Coxa]
+[Fonte: Hegyi et al., 2019]
+[Tipo: Estudo científico]
+
+### Chunk 1: Definição da Posterior da Coxa
+A posterior da coxa é composta pelos músculos bíceps femoral, semimembranoso e semitendinoso. Esses músculos são fundamentais para movimentos de extensão do quadril e flexão do joelho.
+
+---
+
+### Chunk 2: Exercícios Avaliados no Estudo
+Segundo Hegyi et al. (2019), os exercícios analisados para medir a ativação da posterior da coxa foram:
+- Bom dia
+- Stiff unilateral
+- Cable pendulum
+- Elevação pélvica com joelhos flexionados
+- Extensão de quadril em 45 graus
+- Flexão de joelho deitado
+- Slider leg curl
+- Extensão de quadril no pulley
+- Elevação pélvica com joelhos estendidos
+
+---
+
+### Chunk 3: Resultados de Ativação Muscular (%MVIC)
+Os exercícios com maior nível de ativação muscular foram:
+- **Extensão de quadril em pé**: ~85-90%
+- **Elevação pélvica com pernas estendidas**: ~85-90%
+- **Mesa flexora (flexão de joelho deitado na máquina)**: ~80%
+
+*MIVC: Contração muscular isométrica voluntária.*
+
+---
+
+### Chunk 4: Conclusão do Estudo
+O estudo indica que exercícios de extensão de quadril e elevação pélvica são altamente eficazes para ativar os músculos da posterior da coxa. A mesa flexora também apresenta boa ativação, sendo útil para complementar o treino.
+
+---
+
+[Recomendação prática]
+Para hipertrofia da posterior da coxa, combine exercícios de extensão de quadril (como stiff e elevação pélvica) com flexão de joelho (mesa flexora), ajustando carga e volume conforme objetivo.

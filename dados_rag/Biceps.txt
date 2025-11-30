@@ -1,0 +1,37 @@
+[Categoria: Bíceps]
+[Fonte: Young et al., 2014]
+[Tipo: Estudo científico]
+
+### Chunk 1: Importância do Treino de Bíceps
+Ter bíceps grandes e bem desenvolvidos é um dos principais objetivos de quem busca hipertrofia na musculação. Para isso, é essencial executar os exercícios corretos com técnica adequada, garantindo estímulo eficaz para ganho de massa muscular.
+
+---
+
+### Chunk 2: Exercícios Avaliados
+Segundo Young et al. (2014), foram analisados diversos exercícios para medir a ativação muscular do bíceps. Os exercícios estudados foram:
+- Rosca direta no cabo
+- Rosca direta com barra
+- Rosca concentrada
+- Barra fixa (pegada supinada)
+- Rosca direta barra W
+- Rosca concentrada no banco Scott
+
+---
+
+### Chunk 3: Resultados de Ativação Muscular (%MVIC)
+Os três exercícios com maior ativação do bíceps foram:
+- **Rosca concentrada**: ~95%
+- **Rosca direta no pulley**: ~80%
+- **Barra fixa (pegada supinada)**: ~80%
+
+*MIVC: Contração muscular isométrica voluntária.*
+
+---
+
+### Chunk 4: Conclusão do Estudo
+O estudo indica que a rosca concentrada é o exercício mais eficaz para ativação do bíceps, seguida pela rosca direta no pulley e pela barra fixa com pegada supinada. Para um trabalho completo, é recomendada a variação entre exercícios isoladores e multiarticulares.
+
+---
+
+[Recomendação prática]
+Para hipertrofia do bíceps, priorize exercícios como rosca concentrada e barra fixa, complementando com variações (barra W, banco Scott) para diferentes ângulos e estímulos.
