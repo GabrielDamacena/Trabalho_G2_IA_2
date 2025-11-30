@@ -1,3 +1,4 @@
 # Ignorar pastas de ambiente e banco de dados
 env/
 db/
+.env
