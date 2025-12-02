@@ -112,9 +112,9 @@ Este projeto também inclui uma interface web simples para interação com a API
 
 ## 7. Visualizações
 - Exemplo de resposta no front-end: 
-`img/print_1.png`
-`img/print_2.png`
-`img/print_3.png`
+![Imagem da interface grafica](img/print_1.png)
+![Imagem da interface grafica](img/print_2.png)
+![Imagem da interface grafica](img/print_3.png)
 
 ## 8. Próximos Passos
 - Adicionar equivalencia de exercicíos 
